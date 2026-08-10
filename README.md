@@ -4,11 +4,11 @@
 
 Je construis des systèmes à base de LLM : agents, RAG et automatisation de workflows.
 Ce qui m'intéresse, c'est le passage du modèle à l'outil — quelque chose qu'on peut
-réellement utiliser, pas seulement un notebook qu'on referme.
+réellement utiliser.
 
 🔭 **Je recherche une alternance** en AI Engineering / GenAI / Automatisation.
 
-🌍 [Portfolio](https://SabrinaMANSOURI.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/TON-PROFIL) · sabrinamansouri2299@gmail.com
+🌍 [Portfolio](https://SabrinaMANSOURI.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/sabrina-mansouri-7075242a2/) · sabrinamansouri2299@gmail.com
 
 ---
 
@@ -19,7 +19,7 @@ Architecture RAG complète pour interroger des documents techniques en langage n
 n8n, PostgreSQL/pgvector, Mistral AI, Gemini, déployé sous Docker.
 
 **[Analyse de sentiments de tweets](https://github.com/SabrinaMANSOURI/sentiment-analysis-tweets)**
-Classification de tweets en trois polarités. KNN, Bayes naïf, clustering hiérarchique et
+Classification de tweets en trois polarités. KNN, Bayes, clustering hiérarchique et
 annotation lexicale, tous implémentés sans bibliothèque de ML. Interface PySide6.
 
 **[Snake AI — Dijkstra vs réseaux de neurones](https://github.com/SabrinaMANSOURI/snakegame-ai-sae4)**
@@ -42,7 +42,7 @@ sur une même tâche. Python, TensorFlow, Pygame.
 ### Parcours
 
 **Master 1 Informatique — Machine Learning**
-Université de Lille · 2025–2026
+Université de Lille · 2025–2027
 
 **Licence 3 Informatique**
 Université de Picardie Jules Verne, Amiens · 2024–2025
