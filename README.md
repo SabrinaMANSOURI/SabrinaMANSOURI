@@ -1,6 +1,6 @@
 # Sabrina Mansouri
 
-**Étudiante en Master 1 Informatique, parcours Machine Learning — Université de Lille.**
+**Future étudiante en Master 1 Intelligence Artificielle à l'Université de Lille.**
 
 Je construis des systèmes à base de LLM : agents, RAG et automatisation de workflows.
 Ce qui m'intéresse, c'est le passage du modèle à l'outil — quelque chose qu'on peut
@@ -42,7 +42,7 @@ sur une même tâche. Python, TensorFlow, Pygame.
 ### Parcours
 
 **Master 1 Informatique — Machine Learning**
-Université de Lille · 2025–2027
+Université de Lille · 2025–2026
 
 **Licence 3 Informatique**
 Université de Picardie Jules Verne, Amiens · 2024–2025
